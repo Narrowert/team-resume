@@ -35,28 +35,76 @@ const Resumes = () => {
                     link: 'https://ai-softdev.com/'
                 },
                 {
-                    name: 'Beton Line',
-                    link: 'beton-line.uz'
+                    name: 'Sakura Travel',
+                    link: 'https://sakura-travel.uz/'
                 },
                 {
-                    name: 'Fuel Energy',
-                    link: 'fuel-energy.uz'
+                    name: 'Huquq kaliti',
+                    link: 'https://huquq-kaliti.uz/'
                 },
                 {
-                    name: 'COMFORT MIKRO DRIVE SERVICE',
-                    link: 'drive-service.uz'
-                },
-                {
-                    name: 'Im&Kam',
-                    link: 'imkam.uz'
+                    name: 'ICM - interactiv istemol xaritasi',
+                    link: 'https://pr.ai-softdev.com/'
                 },
                 {
                     name: 'Trip Zone',
                     link: 'https://tripzone.uz'
                 },
                 {
+                    name: 'Ahmadov',
+                    link: 'https://ahmadov.uz/'
+                },
+                {
+                    name: 'Kristal Konserva',
+                    link: 'https://konservi.uz/'
+                },
+                {
+                    name: 'Angelvest',
+                    link: 'https://angelvest.uz/'
+                },
+                {
+                    name: 'Plus service',
+                    link: 'https://plus-service.uz/'
+                },
+                {
+                    name: 'Protect Me',
+                    link: 'https://protect-me.uz/'
+                },
+                {
+                    name: 'Agro Chem Solutions',
+                    link: 'https://agro-chem.uz/'
+                },
+                {
+                    name: 'Agro Tech Solutions',
+                    link: 'https://agro-tech.uz/'
+                },
+                {
+                    name: 'Cyber guardian',
+                    link: 'https://cyber-guardian.uz/'
+                },
+                {
+                    name: 'DKSP PLUS',
+                    link: 'https://dksp-plus.uz/'
+                },
+                {
+                    name: 'Beton Line',
+                    link: 'https://beton-line.uz'
+                },
+                {
+                    name: 'Fuel Energy',
+                    link: 'https://fuel-energy.uz'
+                },
+                {
+                    name: 'COMFORT MIKRO DRIVE SERVICE',
+                    link: 'https://drive-service.uz'
+                },
+                {
+                    name: 'Im&Kam',
+                    link: 'https://imkam.uz/'
+                },
+                {
                     name: 'AiMedis',
-                    link: 'medcare.ai-softdev.com'
+                    link: 'https://medcare.ai-softdev.com'
                 }
             ],
             stack: [
@@ -94,12 +142,28 @@ const Resumes = () => {
                     link: 'beton-line.uz'
                 },
                 {
+                    name: 'Sakura Travel',
+                    link: 'https://sakura-travel.uz/'
+                },
+                {
+                    name: 'Huquq kaliti',
+                    link: 'https://huquq-kaliti.uz/'
+                },
+                {
+                    name: 'Ahmadov',
+                    link: 'https://ahmadov.uz/'
+                },
+                {
                     name: 'Im&Kam',
                     link: 'imkam.uz'
                 },
                 {
                     name: 'AiMedis',
                     link: 'medcare.ai-softdev.com'
+                },
+                {
+                    name: 'DKSP PLUS',
+                    link: 'https://dksp-plus.uz/'
                 },
                 {
                     name: 'MPS',
