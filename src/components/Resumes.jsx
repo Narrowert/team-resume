@@ -140,7 +140,7 @@ const Resumes = () => {
             works: [
                 {
                     name: 'Beton Line',
-                    link: 'beton-line.uz'
+                    link: 'https://beton-line.uz'
                 },
                 {
                     name: 'Sakura Travel',
@@ -155,12 +155,16 @@ const Resumes = () => {
                     link: 'https://ahmadov.uz/'
                 },
                 {
+                    name: 'KPI',
+                    link: 'https://buildwithus.ai-softdev.com'
+                },
+                {
                     name: 'Im&Kam',
-                    link: 'imkam.uz'
+                    link: 'https://imkam.uz'
                 },
                 {
                     name: 'AiMedis',
-                    link: 'medcare.ai-softdev.com'
+                    link: 'https://medcare.ai-softdev.com'
                 },
                 {
                     name: 'DKSP PLUS',
@@ -168,11 +172,11 @@ const Resumes = () => {
                 },
                 {
                     name: 'MPS',
-                    link: 'plus-service.uz'
+                    link: 'https://plus-service.uz'
                 },
                 {
                     name: 'Swiss Agro',
-                    link: 'swissagrouz.com'
+                    link: 'https://swissagrouz.com'
                 }
             ],
             stack: [
@@ -224,6 +228,7 @@ const Resumes = () => {
                 'React',
                 'Ruby',
                 'Git',
+                'Rest API',
             ]
         },
         {
@@ -243,8 +248,12 @@ const Resumes = () => {
             ],
             works: [
                 {
-                    name: 'Все проекты',
-                    link: 'https://github.com/xJamsAL?tab=repositories'
+                    name: 'Weather App',
+                    link: 'https://github.com/xJamsAL/Weather_app'
+                },
+                {
+                    name: 'Notes App',
+                    link: 'https://github.com/xJamsAL/NotesApp'
                 }
             ],
             stack: [
@@ -252,6 +261,7 @@ const Resumes = () => {
                 'XML',
                 'Android',
                 'Unity',
+                'Git',
             ]
         },
         {
@@ -282,6 +292,7 @@ const Resumes = () => {
                 'HTML',
                 'CSS',
                 'JavaScript',
+                'Python',
                 'Vue.js'
             ]
         },
