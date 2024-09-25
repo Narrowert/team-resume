@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Narrowert.github.io/team-resume",
   "name": "resume",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Narrowert.github.io/team-resume",
   "type": "module",
   "scripts": {
     "dev": "vite",
