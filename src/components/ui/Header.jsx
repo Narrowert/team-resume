@@ -17,6 +17,10 @@ const Header = () => {
         {
             name: 'Максим',
             link: '#maxim'
+        },
+        {
+            name: 'Мухлиса',
+            link: '#muxlisa'
         }
     ]
     return (
