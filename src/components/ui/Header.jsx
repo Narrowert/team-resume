@@ -6,22 +6,22 @@ const Header = () => {
             name: 'Динара',
             link: '#dinara'
         },
-        {
-            name: 'Тигран',
-            link: '#tigran'
-        },
-        {
-            name: 'Джалол',
-            link: '#jalol'
-        },
-        {
-            name: 'Максим',
-            link: '#maxim'
-        },
-        {
-            name: 'Мухлиса',
-            link: '#muxlisa'
-        }
+        // {
+        //     name: 'Тигран',
+        //     link: '#tigran'
+        // },
+        // {
+        //     name: 'Джалол',
+        //     link: '#jalol'
+        // },
+        // {
+        //     name: 'Максим',
+        //     link: '#maxim'
+        // },
+        // {
+        //     name: 'Мухлиса',
+        //     link: '#muxlisa'
+        // }
     ]
     return (
         <header className="header">
